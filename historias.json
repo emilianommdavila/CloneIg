@@ -1,0 +1,38 @@
+{
+    "data": [{
+            "usuario": "javito_liberal",
+            "historia": "assets/Historias/foto.jpg",
+            "foto_usuario": "assets/fotoPerfil/perfil.jpg"
+        },
+        {
+            "usuario": "el_teto",
+            "historia": "assets/Historias/foto2.jpg",
+            "foto_usuario": "assets/fotoPerfil/hist2.jpg"
+        },
+        {
+            "usuario": "donald_gringu",
+            "historia": "assets/Historias/foto3.jpg",
+            "foto_usuario": "assets/fotoPerfil/hist3.jpg"
+        },
+        {
+            "usuario": "piedras_rock",
+            "historia": "assets/Historias/foto4.jpg",
+            "foto_usuario": "assets/fotoPerfil/hist4.jpg"
+        },
+        {
+            "usuario": "queeni",
+            "historia": "assets/Historias/foto5.jpg",
+            "foto_usuario": "assets/fotoPerfil/hist5.jpg"
+        },
+        {
+            "usuario": "baggins_frod",
+            "historia": "assets/Historias/foto6.jpg",
+            "foto_usuario": "assets/fotoPerfil/hist6.jpg"
+        },
+        {
+            "usuario": "keanu83",
+            "historia": "assets/Historias/foto7.jpg",
+            "foto_usuario": "assets/fotoPerfil/hist7.jpg"
+        }
+    ]
+}

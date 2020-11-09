@@ -1,0 +1,127 @@
+@font-face{
+    font-family: 'Roboto';
+    src: url('https://fonts.googleapis.com/css?family=Roboto');
+}
+
+body {
+     margin: 0px;
+}
+    
+.publicacion {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+/* cabecera */
+
+.headerPublicacion {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.infoPerfil {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nombrePerfilPubli {
+    font-size: 14px;
+}
+
+.imgOpciones {
+    height: 24px;
+    width: 24px;
+}
+
+.nombrePerfil {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #262626;
+}
+
+.opcionesPublicacion {
+    margin-right: 10px;
+}
+
+.fotoPerfil {
+    height: 35px;
+    width: 35px;
+    border-radius: 150px;
+}
+/* cierra cabecera */
+
+.fotoPublicacion {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+}
+/* parte de los iconos de abajo de la foto */
+
+.iconosPublicacion {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    align-self: center;
+}
+
+.sociales {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+    max-width: 150px;
+}
+
+.sociales img {
+    height: 24px;
+    width: auto;
+    margin: 8px;
+}
+
+.guardar {
+    height: 24px;
+    width: auto;
+    margin: 8px;
+}
+
+.cantMG {
+    font-weight: bold;
+}
+/* termina iconos */
+
+.cantMG {
+    margin-left: 10px;
+}
+/* comentarios */
+
+.cajaComentarios {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.cajaComentarios p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.comentario {
+    display: flex;
+    flex-direction: row;
+}
+
+.perfilComentario {
+    text-decoration: none;
+    font-weight: bold;
+    color: #262626;
+}
+/* termina Comentarios */
